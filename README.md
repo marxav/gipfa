@@ -1,5 +1,9 @@
 # GIPFA
 
+This project includes the code of the Artificial Neural Network used for the GIPFA paper, which allows generating International Phonetic Alphabet (IPA) pronunciation from an audio file.
+
+![](gipfa.png?raw=true)
+
 ## Installation
 
 * Download files on your machine
