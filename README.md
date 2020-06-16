@@ -47,6 +47,8 @@ GIPFA achieves the following performance:
 | -------------- | ------------- |   
 |     1000       |     75.0      | 
 
+The detailed performance is availaible in this [CSV file](https://fonétik.fr/fr_wiktionary_excerpt_results.csv) (with '\t' as a separator)
+
 ## License
 
 GIPFA is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
