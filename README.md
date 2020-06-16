@@ -6,6 +6,8 @@ This project includes the code of the Artificial Neural Network used for the [GI
 
 ## Installation
 
+* Requires Python 3.6+.
+
 * Download files on your machine
   * git clone https://github.com/marxav/gipfa.git
 
