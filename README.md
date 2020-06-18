@@ -22,15 +22,9 @@ This repository is the official implementation of [GIPFA: Generating IPA Pronunc
 
 * Load the python librairies needed for GIPFA (e.g. numpy, pandas, torch...) from the requirements file
   * python3 -m pip install -r requirements.txt
-
-## Datasets
-
-We will publish the following datasets, all data originally coming from Wikimedia Commons and Wikimedia French Wiktionary:
-* [fr_wiktionary_excerpt.csv](https://fonétik.fr/fr_wiktionary_excerpt.csv)
-* audio files (link will be availabe soon)
-
-* In the meantime, run the [make_local_database.ipynb](make_local_database.ipynb) python script in a Jupyter notebook. This script downloads the dataset made of a .CSV file (5 MB) as well as 80,260 audio .WAV files (9 GB).
-
+  
+* Download the dataset (size=1.2Go)
+  * python3 download_dataset.py
 
 ## Evaluation and Training
 
