@@ -21,7 +21,9 @@ This repository is the official implementation of [GIPFA: Generating IPA Pronunc
   * source gipfa/bin/activate
 
 * Load the python librairies needed for GIPFA (e.g. numpy, pandas, torch...) from the requirements file
-  * python3 -m pip install -r requirements.txt
+  * python -m pip install --upgrade pip
+  * python -m pip install --upgrade setuptools
+  * python -m pip install -r requirements.txt
   
 * Download the dataset (size=1.2Go)
   * python3 download_dataset.py
